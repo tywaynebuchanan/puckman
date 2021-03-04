@@ -179,11 +179,9 @@ ghosts.forEach(ghost => {
 ghosts.forEach(ghost => moveGhost(ghost))
 
 function moveGhost(ghost) {
-    console.log('moved ghost')
     const directions = [-1, +1, -width, +width]
     let direction = directions[Math.floor(Math.random() * directions.length)]
-    console.log(direction)
-    
+     
     ghost.timerId = setInterval(function() {
         //all our code
         //if the next square does NOT contain a wall and does not contain a ghost
