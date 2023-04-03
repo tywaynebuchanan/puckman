@@ -1,4 +1,4 @@
-# PuckMan - A Classic Pack Man Game
+# PuckMan - A Classic Pac Man Game
 
 PuckMan or Pac-Man is a classic arcade game that was first released in 1980. In the game, the player controls a character named Pac-Man, who must navigate a maze filled with dots while avoiding four colored ghosts. The player must collect all the dots in the maze to progress to the next level.
 
